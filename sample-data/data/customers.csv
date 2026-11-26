@@ -1,0 +1,4 @@
+customer_id,organisation_name,support_email,site
+CUST-001,Birchline Design Studio,it@birchline.example,Studio Office
+CUST-002,West Quay Accounting,it@westquay.example,Central Office
+CUST-003,Harbour Room Events,it@harbourroom.example,Event Office

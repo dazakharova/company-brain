@@ -1,0 +1,5 @@
+loan_device_id,model,pickup_site,status,last_checked_at
+LOAN-301,Dell Latitude 5440,Office B,available,2026-11-20T15:45:00+02:00
+LOAN-302,Lenovo ThinkPad L14,Office B,reserved,2026-11-20T15:45:00+02:00
+LOAN-303,HP EliteBook 840,Office B,in_use,2026-11-20T15:45:00+02:00
+LOAN-304,Dell Latitude 5440,Office B,in_repair,2026-11-20T15:45:00+02:00

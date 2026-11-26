@@ -1,0 +1,90 @@
+# Operating system and local editor files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+~$*
+
+# Local environment files; keep safe templates versioned
+.env
+.env.*
+!.env.example
+!.env.*.example
+.envrc
+.direnv/
+
+# Credentials and private keys
+.aws/
+.azure/
+.gcloud/
+.secrets/
+secrets/
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Electron / JavaScript dependencies and generated output
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.pnp.*
+dist/
+build/
+out/
+release/
+.vite/
+*.tsbuildinfo
+
+# Python dependencies, bytecode, packaging output, and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.ipynb_checkpoints/
+
+# Test output, temporary files, and logs
+coverage/
+.coverage
+.coverage.*
+htmlcov/
+test-results/
+playwright-report/
+.cache/
+tmp/
+temp/
+logs/
+*.log
+
+# Local runtime data
+/data/
+/runtime/
+/uploads/
+/server/data/
+/server/runtime/
+/server/uploads/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Dependency manifests and lockfiles are intentionally tracked.

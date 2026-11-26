@@ -1,0 +1,13 @@
+device_id,customer_id,manufacturer,model,serial_number,operating_system,site,status
+LT-1031,CUST-001,Dell,Latitude 5450,EI-SAMPLE-1031,Windows 11 Pro,Studio Office,active
+LT-1032,CUST-001,Lenovo,ThinkPad T14,EI-SAMPLE-1032,Windows 11 Pro,Studio Office,active
+LT-1033,CUST-001,HP,EliteBook 840,EI-SAMPLE-1033,Windows 11 Pro,Studio Office,retired
+LT-1034,CUST-001,Lenovo,ThinkPad T14,EI-SAMPLE-1034,Windows 11 Pro,Studio Office,active
+LT-1041,CUST-002,Dell,Latitude 5450,EI-SAMPLE-1041,Windows 11 Pro,Central Office,active
+LT-1042,CUST-002,Dell,Latitude 5450,EI-SAMPLE-1042,Windows 11 Pro,Central Office,in_repair
+LT-1043,CUST-002,Lenovo,ThinkPad L14,EI-SAMPLE-1043,Windows 11 Pro,Central Office,active
+LT-1044,CUST-002,HP,EliteBook 840,EI-SAMPLE-1044,Windows 11 Pro,Central Office,active
+LT-1051,CUST-003,Lenovo,ThinkPad L14,EI-SAMPLE-1051,Windows 11 Pro,Event Office,active
+LT-1052,CUST-003,Dell,Latitude 5440,EI-SAMPLE-1052,Windows 11 Pro,Event Office,active
+LT-1053,CUST-003,HP,EliteBook 840,EI-SAMPLE-1053,Windows 11 Pro,Event Office,active
+LT-1054,CUST-003,Lenovo,ThinkPad L14,EI-SAMPLE-1054,Ubuntu 24.04 LTS,Event Office,active

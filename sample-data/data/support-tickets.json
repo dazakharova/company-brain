@@ -1,0 +1,92 @@
+[
+  {
+    "ticket_id": "HD-206",
+    "customer_id": "CUST-001",
+    "device_id": "LT-1032",
+    "opened_at": "2026-10-28T09:15:00+02:00",
+    "title": "External screen stays blank",
+    "description": "Display worked when connected directly to the laptop.",
+    "status": "resolved",
+    "resolution": "Replaced the display cable between the dock and monitor."
+  },
+  {
+    "ticket_id": "HD-210",
+    "customer_id": "CUST-003",
+    "device_id": null,
+    "opened_at": "2026-11-03T10:10:00+02:00",
+    "title": "Sign-in problem after a phone change",
+    "description": "Employee could not use their previous authentication method.",
+    "status": "resolved",
+    "resolution": "Transferred the case to the account support team, which restored access after identity verification."
+  },
+  {
+    "ticket_id": "HD-214",
+    "customer_id": "CUST-002",
+    "device_id": "LT-1043",
+    "opened_at": "2026-11-09T13:20:00+02:00",
+    "title": "USB-C dock disconnects",
+    "description": "Keyboard and monitor disconnected when the dock cable moved.",
+    "status": "resolved",
+    "resolution": "Confirmed the issue with a second dock and replaced the faulty dock."
+  },
+  {
+    "ticket_id": "HD-218",
+    "customer_id": "CUST-002",
+    "device_id": "LT-1042",
+    "opened_at": "2026-11-13T14:05:00+02:00",
+    "title": "Laptop will not start",
+    "description": "No startup screen and no charging light when docked.",
+    "status": "resolved",
+    "resolution": "Tested with an approved charger directly. The laptop charged and started. A replacement dock cable resolved the original issue."
+  },
+  {
+    "ticket_id": "HD-220",
+    "customer_id": "CUST-003",
+    "device_id": "LT-1051",
+    "opened_at": "2026-11-16T11:45:00+02:00",
+    "title": "Loan laptop setup",
+    "description": "The assigned laptop was sent for warranty service.",
+    "status": "resolved",
+    "resolution": "A loan was approved during staffed hours and returned on the agreed date."
+  },
+  {
+    "ticket_id": "HD-221",
+    "customer_id": "CUST-001",
+    "device_id": null,
+    "opened_at": "2026-11-17T08:50:00+02:00",
+    "title": "New starter cannot sign in",
+    "description": "New employee cannot access the support portal.",
+    "status": "resolved",
+    "resolution": "Account support corrected the account assignment."
+  },
+  {
+    "ticket_id": "HD-223",
+    "customer_id": "CUST-003",
+    "device_id": "LT-1054",
+    "opened_at": "2026-11-18T15:30:00+02:00",
+    "title": "Wi-Fi drops in meeting room",
+    "description": "Connection is stable at the desk but drops in a meeting room.",
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "ticket_id": "HD-226",
+    "customer_id": "CUST-001",
+    "device_id": "LT-1031",
+    "opened_at": "2026-11-19T10:40:00+02:00",
+    "title": "Laptop charging is intermittent",
+    "description": "Charger connects intermittently at the laptop port.",
+    "status": "resolved",
+    "resolution": "Confirmed the fault with a second compatible charger and scheduled a hardware inspection."
+  },
+  {
+    "ticket_id": "HD-230",
+    "customer_id": "CUST-002",
+    "device_id": "LT-1042",
+    "opened_at": "2026-11-20T17:30:00+02:00",
+    "title": "Laptop fails on Friday evening",
+    "description": "Laptop stays off with an approved charger connected directly. Customer needs a loan laptop for Monday morning. No loan unit has been allocated.",
+    "status": "open",
+    "resolution": null
+  }
+]

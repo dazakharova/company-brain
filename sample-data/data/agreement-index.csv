@@ -1,0 +1,5 @@
+agreement_id,customer_id,title,support_plan,valid_from,valid_until,pdf_path
+AGR-001-2026,CUST-001,Standard IT support,Standard,2026-01-01,2026-12-31,agreements/agr-001-2026.pdf
+AGR-002-2026A,CUST-002,Business IT support,Business,2026-01-01,2026-09-30,agreements/agr-002-2026a.pdf
+AGR-002-2026B,CUST-002,Premium IT support,Premium,2026-10-01,2027-09-30,agreements/agr-002-2026b.pdf
+AGR-003-2026,CUST-003,Business IT support,Business,2026-03-01,2027-02-28,agreements/agr-003-2026.pdf
