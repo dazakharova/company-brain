@@ -30,7 +30,8 @@ npm ci
 npm start
 ```
 
-The Electron window displays the Company Brain placeholder page. The client runs
+The Electron window opens the Customers screen with searchable fictional customer
+records, support email addresses, and office/site details. The client runs
 locally without the server, AWS credentials, or an `.env` file. The first install
 and first launch need internet access to download npm packages and the Electron
 binary.
