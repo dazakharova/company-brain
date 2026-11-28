@@ -2,6 +2,7 @@
   "name": "company-brain-client",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "description": "Company Brain Electron desktop client",
   "main": "src/main/main.cjs",
   "engines": {
@@ -10,6 +11,8 @@
   "scripts": {
     "start": "electron .",
     "dev": "electron . --dev",
+    "test": "node --test tests/*.test.mjs",
+    "test:ui": "electron tests/customers-screen.cjs",
     "lint": "eslint . --max-warnings 0",
     "lint:fix": "npm run lint -- --fix"
   },

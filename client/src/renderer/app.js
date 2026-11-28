@@ -1,4 +1,5 @@
-import { renderHomeScreen } from './screens/home.js';
+import { renderCustomersScreen } from './screens/customers.js';
+import { mockCustomersService } from './services/customers.js';
 
 const screen = document.querySelector('#screen');
-renderHomeScreen(screen);
+renderCustomersScreen(screen, { customerService: mockCustomersService });
